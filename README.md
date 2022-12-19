@@ -13,8 +13,8 @@ output will be ready for publication.
 - Must have Orange App and SQL Server Management Studio
 - With a stable internet connection and laptop/desktop
 
-### Outline
-### Introduction
-### Review of Related Literature
-### Discussion of Results
-### Recommendations
+### Outline of the Research Paper
+## Introduction
+## Review of Related Literature
+## Discussion of Results
+## Recommendations
