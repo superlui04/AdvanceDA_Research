@@ -12,14 +12,14 @@ Orange Applications, and Creating a Research Paper based on previous case study 
 - With a stable internet connection and laptop/desktop
 
 # Outline of the Research Paper
-## Introduction
-## Methodology
-## Review of Related Literature
-## Discussion of Results
-## Recommendations
+- Introduction
+- Methodology
+- Review of Related Literature
+- Discussion of Results
+- Recommendations
 
 
-#To know more about the training, please contact:
-## Online Classroom Officer Maria Kristine Cariaga
-## Contact Details kristine.cariaga@bayanacademy.edu.ph
-## Email Address indemandph@bayanacademy.edu.ph
+###To know more about the training, please contact:
+###Online Classroom Officer Maria Kristine Cariaga
+### Contact Details kristine.cariaga@bayanacademy.edu.ph
+### Email Address indemandph@bayanacademy.edu.ph
