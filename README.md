@@ -16,6 +16,7 @@ Orange Applications, and Creating a Research Paper based on previous case study 
 - Methodology
 - Review of Related Literature
 - Discussion of Results
+- Conclusion
 - Recommendations
 
 
