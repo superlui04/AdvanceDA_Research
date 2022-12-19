@@ -1,4 +1,6 @@
-# AdvanceDA
+# AdvanceDA - Bayan Academy (Online Training on Advanced Data Analytics)
+This training is part of Bayan Academy’s One Plan for Labor Alignment and Networking or OPLAN Trabaho
+campaign created to address the needs of unemployed and outplaced workers brought about by Covid-19.
 # Research Paper Documentation
 # Online course on Advanced Analytics
 - This course focus on SQL for Data Analysis, Database Connectivity thru
