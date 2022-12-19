@@ -19,7 +19,7 @@ Orange Applications, and Creating a Research Paper based on previous case study 
 - Recommendations
 
 
-###To know more about the training, please contact:
-###Online Classroom Officer Maria Kristine Cariaga
+### To know more about the training, please contact:
+### Online Classroom Officer Maria Kristine Cariaga
 ### Contact Details kristine.cariaga@bayanacademy.edu.ph
 ### Email Address indemandph@bayanacademy.edu.ph
