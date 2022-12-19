@@ -1,7 +1,7 @@
 # AdvanceDA_Research
 
 ## Research Paper Documentation
-Online course on Advanced Analytics
+>Online course on Advanced Analytics
 *This course focus on SQL for Data Analysis, Database Connectivity thru
 Orange Applications, and Creating a Research Paper based on previous case
 study -Intermediate level and presentation of final research paper- once approved,
